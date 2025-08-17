@@ -28,9 +28,10 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Clasificación de precios de vivienda](https://github.com/cjhirashi/proyecto-clasificacion-precios) | Conversión de variable numérica a categórica y entrenamiento de modelos supervisados para predecir precios altos o bajos. | Python, Pandas, Scikit-learn |
-| [Análisis de mercado inmobiliario](https://github.com/cjhirashi/proyecto-analisis-inmobiliario) | Limpieza y análisis de datos de precios de viviendas, con visualizaciones y métricas clave para la toma de decisiones. | Python, Pandas, Matplotlib |
-| [Asistente GPT para programación HVAC](https://github.com/cjhirashi/asistente-gpt-hvac) | IA generativa personalizada para optimizar código y documentación en programación de controladores KMC. | GPT, Control Basic, Python |
+| [Proyecto Sprint 5](https://github.com/cjhirashi/proyecto-sprint-5) | Análisis de datos de clientes de Megaline para determinar qué tarifa genera más ingresos (Surf o Ultimate). Incluye exploración de datos de 500 clientes. | Python, Pandas, Matplotlib, Jupyter |
+| [Proyecto Sprint 6](https://github.com/cjhirashi/proyecto-sprint-6) | Análisis global de ventas de videojuegos, identificando patrones de éxito por plataformas, géneros y regiones con pruebas de hipótesis estadísticas. | Python, Pandas, Seaborn, Jupyter |
+| [Dashboard Sprint 7](https://github.com/cjhirashi/dashboard-sprint-7) | Aplicación en Streamlit para analizar anuncios de autos usados en EE.UU. Relación entre kilometraje (odometer) y precio (price) con interfaz visual y clara. | Python, Streamlit, Plotly, Jupyter |
+
 
 ---
 
