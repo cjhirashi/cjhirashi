@@ -34,12 +34,6 @@
 
 ---
 
-## 📈 ESTADÍSTICAS DE GITHUB
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjhirashi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjhirashi&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 CONTACTO
 - ✉ **Email:** [cjhirashi@gmail.com](mailto:cjhirashi@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/cjhirashi](https://www.linkedin.com/in/cjhirashi)  
