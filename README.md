@@ -29,7 +29,7 @@
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Proyecto Sprint 5](https://github.com/cjhirashi/proyecto-sprint-5) | Análisis de datos de clientes de Megaline para determinar qué tarifa genera más ingresos (Surf o Ultimate). Incluye exploración de datos de 500 clientes. | Python, Pandas, Matplotlib, Jupyter |
-| [Proyecto Sprint 6](https://github.com/cjhirashi/proyecto-sprint-6) | Análisis global de ventas de videojuegos, identificando patrones de éxito por plataformas, géneros y regiones con pruebas de hipótesis estadísticas. | Python, Pandas, Seaborn, Jupyter |
+| [Proyecto Sprint 6](https://github.com/cjhirashi/proyecto-sprint-6) | Análisis global de ventas de videojuegos, identificando patrones de éxito por plataformas, géneros y regiones con pruebas de hipótesis estadísticas. | Python, Pandas, Jupyter |
 | [Dashboard Sprint 7](https://github.com/cjhirashi/dashboard-sprint-7) | Aplicación en Streamlit para analizar anuncios de autos usados en EE.UU. Relación entre kilometraje (odometer) y precio (price) con interfaz visual y clara. | Python, Streamlit, Plotly, Jupyter |
 
 
