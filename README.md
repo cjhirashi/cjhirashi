@@ -86,28 +86,56 @@
 
 ## 📌 Proyectos destacados
 
-### 🔹 [Proyecto Sprint 5](https://github.com/cjhirashi/proyecto-sprint-5)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+### 🔹 [Proyecto Sprint 5 - Análisis de Tarifas de Prepago (Megaline)](https://github.com/cjhirashi/proyecto-sprint-5)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-📊 **Análisis de datos de clientes de Megaline** para determinar qué tarifa genera más ingresos (Surf o Ultimate). Incluye exploración de datos de **500 clientes**.    
+📊 Proyecto realizado en el **Sprint 5 de TripleTen**. Análisis de datos de clientes del operador **Megaline**, con el objetivo de determinar qué tarifa de prepago (**Surf o Ultimate**) genera mayores ingresos y así optimizar la estrategia de marketing y publicidad.  
 
-### 🔹 [Proyecto Sprint 6](https://github.com/cjhirashi/proyecto-sprint-6)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+Se trabajó con datos de **500 clientes durante 2018**, incluyendo llamadas, SMS, tráfico de internet y plan contratado.  
 
-🎮 **Análisis global de ventas de videojuegos**, identificando patrones de éxito por **plataformas, géneros y regiones** mediante pruebas de hipótesis estadísticas.    
+**Objetivos principales:**
+- 🧹 Preparar y limpiar los datos.  
+- 📞 Analizar comportamiento de clientes en llamadas, SMS y uso de datos.  
+- 💰 Calcular ingresos mensuales por usuario y plan.  
+- 📊 Visualizar distribuciones y patrones de uso.  
+- 📈 Probar hipótesis estadísticas sobre ingresos medios entre planes y regiones.  
 
-### 🔹 [Dashboard Sprint 7](https://github.com/cjhirashi/dashboard-sprint-7)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+### 🔹 [Proyecto Sprint 6 - Análisis de Ventas de Videojuegos](https://github.com/cjhirashi/proyecto-sprint-6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E87A0?style=flat&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-🚗 **Aplicación en Streamlit** para analizar anuncios de autos usados en EE.UU. Relación entre **kilometraje (odometer)** y **precio (price)** con una interfaz visual clara.  
+🎮 Proyecto realizado en el **Sprint 6 de TripleTen**. Análisis de datos de **ventas de videojuegos a nivel global**, con el fin de identificar patrones de éxito y probar hipótesis estadísticas para apoyar decisiones estratégicas en campañas de marketing y selección de plataformas.  
+
+El caso práctico se basa en **datos históricos hasta 2016**, con el propósito de planear estrategias de ventas para 2017.  
+
+**Objetivos principales:**
+- 🧹 Preparar y limpiar los datos.  
+- 🎮 Identificar plataformas y géneros con mayor potencial de éxito.  
+- ⭐ Analizar la relación entre reseñas (usuarios y críticos) y ventas.  
+- 🌍 Construir perfiles de usuario para distintas regiones (NA, EU, JP).  
+- 📈 Probar hipótesis estadísticas sobre plataformas y géneros.  
+
+### 🔹 [Proyecto Sprint 7 - Streamlit Dashboard: Anuncios de Vehículos Usados](https://github.com/cjhirashi/dashboard-sprint-7)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+🚗 Aplicación web interactiva en **Streamlit** para analizar datos de anuncios de autos usados en Estados Unidos.  
+Permite explorar la relación entre el **kilometraje (odometer)** y el **precio (price)** de los vehículos, ofreciendo una interfaz clara y atractiva para el análisis de mercado.  
+
+**Funcionalidades principales:**
+- 📊 Histograma dinámico para visualizar la distribución del kilometraje.  
+- 🔎 Gráfico de dispersión interactivo que relaciona kilometraje y precio.  
+- 🌐 Interfaz amigable basada en Streamlit con visualizaciones en Plotly.  
 
 ---
 
