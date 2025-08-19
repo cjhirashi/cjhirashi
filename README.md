@@ -123,6 +123,6 @@
 ## 📫 Contacto
 > 📧 **Email:** cjhirashi@gmail.com  
 > 💼 **LinkedIn:** https://www.linkedin.com/in/cjhirashi  
-> 🌐 **Portafolio/GitHub:** https://github.com/cjhirashi
+> 🌐 **Portafolio:** https://cjhirashi.github.io
 
 ⭐ *Si algún proyecto te ha resultado interesante, no dudes en darle una estrella en GitHub y conectar conmigo para posibles colaboraciones.*
