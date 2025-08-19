@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # 👋 Hola, soy Carlos Jiménez Hirashi  
 *Científico de Datos Jr. en formación | +15 años de experiencia en programación y automatización HVAC*
 
