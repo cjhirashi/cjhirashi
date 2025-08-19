@@ -84,7 +84,7 @@
 
 ---
 
-## 📌 PROYECTOS DESTACADOS
+## 📌 Proyectos destacados
 
 ### 🔹 [Proyecto Sprint 5](https://github.com/cjhirashi/proyecto-sprint-5)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
