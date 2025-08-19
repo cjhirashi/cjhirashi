@@ -109,7 +109,6 @@ Se trabajó con datos de **500 clientes durante 2018**, incluyendo llamadas, SMS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4E87A0?style=flat&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 🎮 Proyecto realizado en el **Sprint 6 de TripleTen**. Análisis de datos de **ventas de videojuegos a nivel global**, con el fin de identificar patrones de éxito y probar hipótesis estadísticas para apoyar decisiones estratégicas en campañas de marketing y selección de plataformas.  
