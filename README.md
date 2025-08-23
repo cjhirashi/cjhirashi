@@ -86,6 +86,55 @@
 
 ## 📌 Proyectos destacados
 
+###🔹 [Proyecto Sprint 9 - Clasificación de Planes Megaline](https://github.com/cjhirashi/proyecto-sprint-9)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+
+🤖 Proyecto realizado en el **Sprint 9 de TripleTen**. Desarrollo de un modelo de **Machine Learning** para clasificar clientes de **Megaline** y recomendar el plan óptimo (**Smart o Ultra**), alcanzando una exactitud mínima de **0.75**.  
+
+**Objetivos principales:**  
+- 🧹 Analizar y preparar los datos de comportamiento de usuarios.  
+- 🤖 Entrenar diferentes modelos de clasificación.  
+- ⚙️ Ajustar hiperparámetros para optimizar el rendimiento.  
+- 📊 Evaluar la calidad del modelo en conjunto de prueba.  
+- 🧪 Realizar prueba de cordura para verificar consistencia.  
+
+### 🔹 [Proyecto Sprint 7 - Streamlit Dashboard: Anuncios de Vehículos Usados](https://github.com/cjhirashi/dashboard-sprint-7)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+🚗 Aplicación web interactiva en **Streamlit** para analizar datos de anuncios de autos usados en Estados Unidos.  
+Permite explorar la relación entre el **kilometraje (odometer)** y el **precio (price)** de los vehículos, ofreciendo una interfaz clara y atractiva para el análisis de mercado.  
+
+**Funcionalidades principales:**
+- 📊 Histograma dinámico para visualizar la distribución del kilometraje.  
+- 🔎 Gráfico de dispersión interactivo que relaciona kilometraje y precio.  
+- 🌐 Interfaz amigable basada en Streamlit con visualizaciones en Plotly.
+
+### 🔹 [Proyecto Sprint 6 - Análisis de Ventas de Videojuegos](https://github.com/cjhirashi/proyecto-sprint-6)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+🎮 Proyecto realizado en el **Sprint 6 de TripleTen**. Análisis de datos de **ventas de videojuegos a nivel global**, con el fin de identificar patrones de éxito y probar hipótesis estadísticas para apoyar decisiones estratégicas en campañas de marketing y selección de plataformas.  
+
+El caso práctico se basa en **datos históricos hasta 2016**, con el propósito de planear estrategias de ventas para 2017.  
+
+**Objetivos principales:**
+- 🧹 Preparar y limpiar los datos.  
+- 🎮 Identificar plataformas y géneros con mayor potencial de éxito.  
+- ⭐ Analizar la relación entre reseñas (usuarios y críticos) y ventas.  
+- 🌍 Construir perfiles de usuario para distintas regiones (NA, EU, JP).  
+- 📈 Probar hipótesis estadísticas sobre plataformas y géneros.  
+
 ### 🔹 [Proyecto Sprint 5 - Análisis de Tarifas de Prepago (Megaline)](https://github.com/cjhirashi/proyecto-sprint-5)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -104,37 +153,6 @@ Se trabajó con datos de **500 clientes durante 2018**, incluyendo llamadas, SMS
 - 💰 Calcular ingresos mensuales por usuario y plan.  
 - 📊 Visualizar distribuciones y patrones de uso.  
 - 📈 Probar hipótesis estadísticas sobre ingresos medios entre planes y regiones.  
-
-### 🔹 [Proyecto Sprint 6 - Análisis de Ventas de Videojuegos](https://github.com/cjhirashi/proyecto-sprint-6)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-🎮 Proyecto realizado en el **Sprint 6 de TripleTen**. Análisis de datos de **ventas de videojuegos a nivel global**, con el fin de identificar patrones de éxito y probar hipótesis estadísticas para apoyar decisiones estratégicas en campañas de marketing y selección de plataformas.  
-
-El caso práctico se basa en **datos históricos hasta 2016**, con el propósito de planear estrategias de ventas para 2017.  
-
-**Objetivos principales:**
-- 🧹 Preparar y limpiar los datos.  
-- 🎮 Identificar plataformas y géneros con mayor potencial de éxito.  
-- ⭐ Analizar la relación entre reseñas (usuarios y críticos) y ventas.  
-- 🌍 Construir perfiles de usuario para distintas regiones (NA, EU, JP).  
-- 📈 Probar hipótesis estadísticas sobre plataformas y géneros.  
-
-### 🔹 [Proyecto Sprint 7 - Streamlit Dashboard: Anuncios de Vehículos Usados](https://github.com/cjhirashi/dashboard-sprint-7)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-🚗 Aplicación web interactiva en **Streamlit** para analizar datos de anuncios de autos usados en Estados Unidos.  
-Permite explorar la relación entre el **kilometraje (odometer)** y el **precio (price)** de los vehículos, ofreciendo una interfaz clara y atractiva para el análisis de mercado.  
-
-**Funcionalidades principales:**
-- 📊 Histograma dinámico para visualizar la distribución del kilometraje.  
-- 🔎 Gráfico de dispersión interactivo que relaciona kilometraje y precio.  
-- 🌐 Interfaz amigable basada en Streamlit con visualizaciones en Plotly.  
 
 ---
 
