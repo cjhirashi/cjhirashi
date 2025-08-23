@@ -86,11 +86,11 @@
 
 ## 📌 Proyectos destacados
 
-###🔹 [Proyecto Sprint 9 - Clasificación de Planes Megaline](https://github.com/cjhirashi/proyecto-sprint-9)
+### 🔹 [Proyecto Sprint 9 - Clasificación de Planes Megaline](https://github.com/cjhirashi/proyecto-sprint-9)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
 
 🤖 Proyecto realizado en el **Sprint 9 de TripleTen**. Desarrollo de un modelo de **Machine Learning** para clasificar clientes de **Megaline** y recomendar el plan óptimo (**Smart o Ultra**), alcanzando una exactitud mínima de **0.75**.  
