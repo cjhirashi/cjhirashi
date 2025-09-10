@@ -91,7 +91,6 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn&logoColor=white)
-![Imbalanced-Learn](https://img.shields.io/badge/Imbalanced--Learn-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)
 
 🏦 Proyecto realizado en el **Sprint 10 de TripleTen**. Desarrollo de un modelo de **Machine Learning** para predecir la salida de clientes (**churn**) en **Beta Bank**.  
