@@ -86,6 +86,24 @@
 
 ## 📌 Proyectos destacados
 
+### 🔹 [Proyecto Sprint 10 - Predicción de Churn en Beta Bank](https://github.com/cjhirashi/proyecto-sprint-10)
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-blue?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn&logoColor=white)
+![Imbalanced-Learn](https://img.shields.io/badge/Imbalanced--Learn-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)
+
+🏦 Proyecto realizado en el **Sprint 10 de TripleTen**. Desarrollo de un modelo de **Machine Learning** para predecir la salida de clientes (**churn**) en **Beta Bank**.  
+El objetivo fue optimizar la métrica **F1 ≥ 0.59**, comparando resultados con la métrica **AUC-ROC** y aplicando técnicas de balanceo de clases.
+
+**Objetivos principales:**
+- 🧹 Preparar y limpiar los datos del banco.  
+- ⚖️ Aplicar técnicas de balanceo para datos desbalanceados.  
+- 🤖 Entrenar modelos de clasificación optimizados para métrica F1.  
+- 📊 Evaluar desempeño con AUC-ROC y comparar resultados.  
+- ✅ Validar consistencia de los modelos entrenados.  
+
 ### 🔹 [Proyecto Sprint 9 - Clasificación de Planes Megaline](https://github.com/cjhirashi/proyecto-sprint-9)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
