@@ -86,6 +86,27 @@
 
 ## 📌 Proyectos destacados
 
+### 🔹 [Proyecto Sprint 11 - Selección de Región Petrolera](https://github.com/cjhirashi/proyecto-sprint-11)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+🛢️ Proyecto del Sprint 11 en TripleTen. La empresa **OilyGiant** busca determinar la **región óptima** para abrir 200 pozos de petróleo.  
+Se entrena un modelo de **regresión lineal** para predecir el volumen de reservas en cada región, se calculan beneficios y riesgos mediante **bootstrapping (1000 muestras)** y se selecciona la región con **mayor beneficio esperado** y un **riesgo de pérdidas < 2.5%**.  
+**Tecnologías:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
+
+**Objetivos principales:**  
+- 📊 Entrenar un modelo de regresión lineal para estimar reservas por región.  
+- 🛢️ Seleccionar los pozos más rentables dentro de cada región.  
+- 🔄 Aplicar bootstrapping con 1000 muestras para medir riesgos y beneficios.  
+- ⚖️ Elegir la región con el mayor beneficio esperado y riesgo < 2.5%.  
+- 📈 Implementar análisis de punto de equilibrio y viabilidad económica.
+
 ### 🔹 [Proyecto Sprint 10 - Predicción de Churn en Beta Bank](https://github.com/cjhirashi/proyecto-sprint-10)
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
