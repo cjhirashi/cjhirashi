@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Carlos Jiménez - Banner.png" alt="Carlos Jiménez Hirashi — Data Scientist" width="100%">
+  <img src="./banner.png" alt="Carlos Jiménez Hirashi — Data Scientist" width="100%">
 </p>
 
 <h1 align="center">👋 Hola, soy Carlos Jiménez Hirashi</h1>
