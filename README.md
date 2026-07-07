@@ -128,10 +128,8 @@ No solo desarrollo modelos. Construyo **soluciones analíticas confiables, expli
 
 ## 📊 Métricas
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cjhirashi&show_icons=true&theme=github_dark_dimmed&hide_title=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhirashi&layout=compact&theme=github_dark_dimmed&langs_count=8" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/cjhirashi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/cjhirashi?style=social)
 
 ---
 
