@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="./banner cjhirashi github.png" alt="Carlos Jiménez Hirashi — Data Scientist" width="100%">
@@ -10,8 +9,8 @@
   20+ años en sistemas de misión crítica → Ahora en Data Science & IA
 </p>
 <p align="center">
-  <a href="mailto:cjhirashi@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/EMAIL-cjhirashi%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:carlos@cjhirashi.com">
+    <img alt="Email" src="https://img.shields.io/badge/EMAIL-carlos%40cjhirashi.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/cjhirashi">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-cjhirashi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -138,6 +137,6 @@ No solo desarrollo modelos. Construyo **soluciones analíticas confiables, expli
 > 📧 **Email:** [carlos@cjhirashi.com](mailto:carlos@cjhirashi.com)  
 > 💼 **LinkedIn:** https://www.linkedin.com/in/cjhirashi  
 > 🌐 **Portafolio:** https://cjhirashi.com/  
-> 📱 **WhatsApp:** [+52(55)1371-0160](https://wa.me/525513710160)
+> 📱 **WhatsApp:** [+52(55)1371-0160](https://wa.me/5255137110160)
 
 ⭐ *Conectemos si compartimos la visión de transformar datos complejos en decisiones inteligentes y resultados de negocio.*
