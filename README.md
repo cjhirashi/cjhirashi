@@ -138,6 +138,6 @@ No solo desarrollo modelos. Construyo **soluciones analíticas confiables, expli
 > 📧 **Email:** [carlos@cjhirashi.com](mailto:carlos@cjhirashi.com)  
 > 💼 **LinkedIn:** https://www.linkedin.com/in/cjhirashi  
 > 🌐 **Portafolio:** https://cjhirashi.com/  
-> 📱 **WhatsApp:** [+52(55)1371-0160](https://wa.me/5255137110160)
+> 📱 **WhatsApp:** [+52(55)1371-0160](https://wa.me/525513710160)
 
 ⭐ *Conectemos si compartimos la visión de transformar datos complejos en decisiones inteligentes y resultados de negocio.*
