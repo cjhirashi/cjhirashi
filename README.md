@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner cjhirashi github.png" alt="Carlos Jiménez Hirashi — Data Scientist" width="100%">
+  <img src="./banner cjhirashi github.png" alt="Carlos Jiménez Hirashi — AI Solutions Architect & Data Scientist" width="100%">
 </p>
 <h1 align="center">👋 Hola, soy Carlos Jiménez Hirashi</h1>
 <p align="center">
   <strong>Data Scientist | AI & Machine Learning | Reliability Engineering</strong><br>
   Construyo soluciones analíticas confiables, explicables y orientadas al negocio<br>
-  20+ años en sistemas de misión crítica → Ahora en Data Science & IA
+  20+ años en sistemas de misión crítica, ahora con Data Science & IA
 </p>
 <p align="center">
   <a href="mailto:carlos@cjhirashi.com">
