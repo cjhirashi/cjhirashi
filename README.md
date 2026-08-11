@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">👋 Hola, soy Carlos Jiménez Hirashi</h1>
 <p align="center">
-  <strong>Data Scientist | AI & Machine Learning | Reliability Engineering</strong><br>
+  <strong>AI Solutions Architect & Data Scientist | Intelligent Automation · ML · AI</strong><br>
   Construyo soluciones analíticas confiables, explicables y orientadas al negocio<br>
   20+ años en sistemas de misión crítica, ahora con Data Science & IA
 </p>
