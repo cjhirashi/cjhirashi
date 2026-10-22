@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./banner cjhirashi github.png" alt="Carlos Jiménez Hirashi, Data Scientist e Intelligent Automation Architect" width="100%">
-</p>
-
 <h1 align="center">👋 Hola, soy Carlos Jiménez Hirashi</h1>
 <p align="center">
   <strong>Data Scientist | Intelligent Automation Architect | ML · IA Aplicada a Sistemas Industriales</strong><br>
