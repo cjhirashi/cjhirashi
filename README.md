@@ -12,7 +12,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-cjhirashi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <img alt="Ubicación" src="https://img.shields.io/badge/CDMX-México-3fb950?style=for-the-badge&logo=google-maps&logoColor=white">
-  <img alt="Perfil" src="https://komarev.com/ghpvc/?username=cjhirashi&style=for-the-badge&color=gray">
 </p>
 
 ---
