@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./banner cjhirashi github.png" alt="Carlos Jiménez Hirashi, Data Scientist e Intelligent Automation Architect" width="100%">
 </p>
+
 <h1 align="center">👋 Hola, soy Carlos Jiménez Hirashi</h1>
 <p align="center">
   <strong>Data Scientist | Intelligent Automation Architect | ML · IA Aplicada a Sistemas Industriales</strong><br>
@@ -89,6 +90,7 @@ No solo desarrollo modelos. Construyo **soluciones analíticas confiables, expli
   <img src="https://img.shields.io/badge/Ingeniería%20de%20Confiabilidad-0A84FF?labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Automatización%20Inteligente-2EAE73?labelColor=0d1117" />
 </p>
+
 
 ---
 
