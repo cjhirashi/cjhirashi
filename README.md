@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner cjhirashi github.png" alt="Carlos Jiménez Hirashi — AI Solutions Architect & Data Scientist" width="100%">
+  <img src="./banner cjhirashi github.png" alt="Carlos Jiménez Hirashi, Data Scientist e Intelligent Automation Architect" width="100%">
 </p>
 <h1 align="center">👋 Hola, soy Carlos Jiménez Hirashi</h1>
 <p align="center">
-  <strong>AI Solutions Architect & Data Scientist | Intelligent Automation · ML · AI</strong><br>
+  <strong>Data Scientist | Intelligent Automation Architect | ML · IA Aplicada a Sistemas Industriales</strong><br>
   Construyo soluciones analíticas confiables, explicables y orientadas al negocio<br>
   20+ años en sistemas de misión crítica, ahora con Data Science & IA
 </p>
